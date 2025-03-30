@@ -9,5 +9,5 @@ Some esoteric and cool stuff are hosted in [my SourceHut](https://git.sr.ht/~gyr
 Very unemployed (I'll get back you).
 
 Find me:
-X:      [@gyreas](https://x.com/gyreas)
-Matrix: [@gyre_as:matrix.org](https://matrix.to/#/@gyre_as:matrix.org)
+- X:      [@gyreas](https://x.com/gyreas)
+- Matrix: [@gyre_as:matrix.org](https://matrix.to/#/@gyre_as:matrix.org)
